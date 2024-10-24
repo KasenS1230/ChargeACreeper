@@ -1,0 +1,4 @@
+name: ChargeACreeper
+version: '${project.version}'
+main: me.practiceplugin1.chargeacreeper.ChargeACreeper
+api-version: '1.21'
